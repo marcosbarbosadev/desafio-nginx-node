@@ -1,0 +1,1 @@
+docker run -d --network laranet --name nginx -p 8080:80 marcosbarbosa/nginx:prod
